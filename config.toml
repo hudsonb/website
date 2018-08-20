@@ -244,14 +244,14 @@ enableGitInfo = false
     link = "//twitter.com/brianrhudson"
 
   [[params.social]]
-    icon = "medium"
-    icon_pack = "fa"
-    link = "https://medium.com/@hudsonb"
-
-  [[params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/hudsonb"
+    
+  [[params.social]]
+    icon = "medium-m"
+    icon_pack = "fa"
+    link = "//medium.com/@hudsonb"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -278,6 +278,11 @@ enableGitInfo = false
 #  url = "#publications_selected"
 #  weight = 2
 
+[[menu.main]]
+  name = "Research Statement"
+  url = "#research-statement"
+  weight = 2
+  
 [[menu.main]]
   name = "Posts"
   url = "#posts"
