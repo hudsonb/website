@@ -14,4 +14,4 @@ weight = 6
 
 +++
 
-Bob Boblaw Law Blog
+Data visualization helps human beings gain insights into data and communicate their findings. However, most current visualization creation tools either only support fixed sets of designs or require an in-depth understanding of programming concepts. To enable general audiences to create custom visualizations for data-driven storytelling, we design interactions and implement user interfaces for visualization authoring.
