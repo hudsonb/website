@@ -73,7 +73,7 @@ enableGitInfo = false
                     { name = "Assured Information Security, Inc.", url = "https://www.ainfosec.com/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "me_square.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "brian.r.hudson@gmail.com"
   address = "New York"
   office_hours = ""
