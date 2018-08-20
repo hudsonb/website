@@ -68,12 +68,13 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Clarkson University", url = "https://www.clarkson.edu/" } ]
+  organizations = [ { name = "Clarkson University", url = "https://www.clarkson.edu/" },
+                    { name = "Assured Information Security, Inc.", url = "https://www.ainfosec.com/" ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "brian.r.hudson@gmail.com"
-  address = ""
+  address = "New York"
   office_hours = ""
   phone = ""
   skype = ""
@@ -199,6 +200,7 @@ enableGitInfo = false
     # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
     #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
     date_format = "January, 2006"
+    active = false
 
   # Configuration of project pages.
   [params.projects]
@@ -274,6 +276,7 @@ enableGitInfo = false
   name = "Publications"
   url = "#publications_selected"
   weight = 2
+  active = false
 
 [[menu.main]]
   name = "Posts"
