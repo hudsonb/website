@@ -10,31 +10,24 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Data Visualization",
+    "Visual Analytics",
+    "Human-Computer Interaction"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "MS in Computer Science"
+  institution = "SUNY Institute of Technology"
   year = 2008
+
+[[education.courses]]
+  course = "BS in Computer Science"
+  institution = "SUNY Institute of Technology"
+  year = 2003
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Brian Hudson is a Principal Engineer at [Assured Information Security Inc](https://ainfosec.com). He earned a BS in 2003 and an MS in Computer Science in 2008 from [SUNY Polytechnic Institute](https://sunypi.edu) (formerly SUNY Institute of Technology). Currently, Brian is a PhD Candidate at [Clarkson University](https://clarkson.edu) under the advisement of [Dr. Jeanna Matthews](http://people.clarkson.edu/~jmatthew/).
