@@ -35,8 +35,8 @@ weight = 5
 
 # Biography
 
-Brian Hudson is a Principal Engineer at [Assured Information Security Inc](https://ainfosec.com) working on analytical tools for signals intelligence (SIGINT) data. Brian is also an Adjunct Lecturer at [SUNY Polytechnic Institute](https://sunypi.edu) where he teaches Java programming and Software Engineering courses.
+Brian Hudson is a Principal Engineer at [Assured Information Security Inc](https://ainfosec.com). working on analytical tools for the US signals intelligence (SIGINT) community. Additionally, he is an Adjunct Lecturer at [SUNY Polytechnic Institute](https://sunypi.edu) where he teaches Java programming and Software Engineering courses.
 
-He earned a BS in Computer Science in 2003 and an MS in Computer Science in 2008 from [SUNY Polytechnic Institute](https://sunypi.edu) (formerly SUNY Institute of Technology). Currently, Brian is a PhD Candidate at [Clarkson University](https://clarkson.edu) under the advisement of [Dr. Jeanna Matthews](http://people.clarkson.edu/~jmatthew/). For more information on my research, refer to my [Research Statement](#research-statement).
+He earned a BS in Computer Science in 2003 and an MS in Computer Science in 2008 from [SUNY Polytechnic Institute](https://sunypi.edu) (formerly SUNY Institute of Technology). Currently, Brian is a PhD Candidate at [Clarkson University](https://clarkson.edu) under the advisement of Dr. [Jeanna Matthews](http://people.clarkson.edu/~jmatthew/). For more information on my research, refer to my [Research Statement](#research-statement).
 
 
