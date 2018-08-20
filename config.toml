@@ -79,7 +79,7 @@ enableGitInfo = false
   office_hours = ""
   phone = ""
   skype = ""
-  #telegram = ""
+  telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -244,9 +244,9 @@ enableGitInfo = false
     link = "//twitter.com/brianrhudson"
 
   [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = ""
+    icon = "medium"
+    icon_pack = "fa"
+    link = "https://medium.com/@hudsonb"
 
   [[params.social]]
     icon = "github"
