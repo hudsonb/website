@@ -64,7 +64,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Brian Hudson"
-  role = "PhD Candidate"
+  role = "Software Engineer"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -72,7 +72,7 @@ enableGitInfo = false
                     { name = "SUNY Polytechnic Institute", url = "https://www.sunypi.edu" },
                     { name = "Assured Information Security, Inc.", url = "https://www.ainfosec.com/" } ]
 
-  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
+  gravatar = true  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "brian.r.hudson@gmail.com"
   address = "New York"
@@ -158,7 +158,7 @@ enableGitInfo = false
   #   For more info on the highlighting options, see:
   #   https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
   highlight = true
-  highlight_languages = []
+  highlight_languages = [ "java", "kotlin", "python" ]
   # highlight_style = "github"
 
   # Enable native social sharing buttons?
@@ -273,11 +273,10 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
-[[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 2
-  active = false
+#[[menu.main]]
+#  name = "Publications"
+#  url = "#publications_selected"
+#  weight = 2
 
 [[menu.main]]
   name = "Posts"
@@ -312,7 +311,7 @@ enableGitInfo = false
   #   0: No search engine
   #   1: Built-in (Fuse)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  engine = 0
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
@@ -329,21 +328,6 @@ enableGitInfo = false
   publication_type = "publication_types"
 
 # Languages
-#   Create a [languages.X] block for each language you want, where X is the language ID.
-#   Refer to https://sourcethemes.com/academic/docs/language/
-
 # Configure the English version of the website.
 [languages.en]
   languageCode = "en-us"
-
-# Uncomment the lines below to configure your website in a second language.
-#[languages.zh]
-#  languageCode = "zh-Hans"
-#  title = "Chinese website title..."
-#  [languages.zh.params]
-#    name = "Your name in Chinese..."
-#    role = "Your role in Chinese..."
-#  [[languages.zh.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
