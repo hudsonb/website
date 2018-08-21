@@ -249,7 +249,7 @@ enableGitInfo = false
     link = "//github.com/hudsonb"
     
   [[params.social]]
-    icon = "medium-m"
+    icon = "medium"
     icon_pack = "fa"
     link = "https://medium.com/@hudsonb"
 
