@@ -1,3 +1,9 @@
++++
+
+external_link = "https://github.com/hudsonb/kubed"
+
++++
+
 # Kubed
 
-https://github.com/hudsonb/kubed
+Blah blah blah
