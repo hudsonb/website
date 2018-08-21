@@ -14,6 +14,8 @@ weight = 60
 
 +++
 
+![Ironman](/static/img/im.jpg "Ironman Mont Tremblant 2016")
+
 I am an avid triathalete, having completed four Ironmans, three Ironman 70.3s and numerous shorter distance triathalons.
 
 #### Upcoming Events
